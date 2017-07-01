@@ -7,7 +7,7 @@ var radius = 120;
 
 var dragStart = false;
 var angle = 0;
-var speed = 5;
+var speed = 7;
 
 ctx.strokeStyle = '#FA8072';
 ctx.lineWidth = radius / 5.5;
