@@ -7,4 +7,4 @@ A virtual fidget spinner made in JavaScript.
 #UPDATES
 - You can see current speed of the fidget spinner.
 - You can set a custom speed for the fidget spinner.
-- FOr all the lazy people who don't want to drag their mouse. Added a button, click it to spin it.
+- For all the lazy people who don't want to drag their mouse. Added a button, click it to spin it.
