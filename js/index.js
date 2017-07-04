@@ -13,7 +13,7 @@ ctx.strokeStyle = '#FA8072';
 ctx.lineWidth = radius / 5.5;
 
 function spin() {
-    speed = speed;
+    speed = document.getElementById("svalue").innerHTML;
 }
 
 function verifyorder() {
