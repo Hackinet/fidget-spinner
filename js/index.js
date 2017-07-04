@@ -8,9 +8,16 @@ var radius = 120;
 var dragStart = false;
 var angle = 0;
 var speed = 7;
-
+document.getElementById("svalue").innerHTML = speed;
 ctx.strokeStyle = '#FA8072';
 ctx.lineWidth = radius / 5.5;
+
+function verifyorder() {
+    speed = document.getElementById('value').value;
+    document.getElementById("svalue").innerHTML = speed;
+}
+
+
 
 canvas.addEventListener('mousedown', function (_ref) {
   var clientX = _ref.clientX;
