@@ -12,6 +12,10 @@ document.getElementById("svalue").innerHTML = speed;
 ctx.strokeStyle = '#FA8072';
 ctx.lineWidth = radius / 5.5;
 
+function spin() {
+    speed = speed;
+}
+
 function verifyorder() {
     speed = document.getElementById('value').value;
     document.getElementById("svalue").innerHTML = speed;
