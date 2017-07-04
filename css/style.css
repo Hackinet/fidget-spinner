@@ -7,3 +7,8 @@ canvas {
   display: block;
   margin: 0 auto;
 }
+corner{
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
