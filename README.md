@@ -1,5 +1,5 @@
 # fidget-spinner
-A virtual fidget spinner made in JavaScript.
+A virtual fidget spinner made in Javascript.
 # How to use
 - Drag the mouse to make it spin.
 - The greater the speed of the drag, the greater the spping speed of the spinner.
