@@ -2,7 +2,7 @@
 A virtual fidget spinner made in Javascript.
 # How to use
 - Drag the mouse to make it spin.
-- The greater the speed of the drag, the greater the spping speed of the spinner.
+- The greater the speed of the drag, the greater the spining speed of the spinner.
 - Demo: https://hackinet.github.io/fidget-spinner/
 # UPDATES
 - You can see current speed of the fidget spinner.
